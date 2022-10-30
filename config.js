@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/drak_ipul123'
-global.syt = 'https://youtu.be/pwLZpdfO8AU'
-global.sgh = 'https://github.com/SaipulAnuar'
-global.sgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.swa = 'wa.me/6288279268363'
-global.swb = 'https://'
+global.sig = 'https://instagram.com/ahmadstoreeee?igshid=MDE2OWE1N2Q='
+global.syt = 'https://youtube.com/c/ahmadstoreeee'
+global.sgh = '-'
+global.sgc = '-'
+global.swa = 'wa.me/6289697155781'
+global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '088279268363'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '088279268363'
+global.pgopay = '-'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/raraharsita2'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17326319049'
-global.nomorown = '6288279268363'
-global.namebot = 'Yuki Adistyラ'
-global.nameown = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nomorbot = '6285715914751'
+global.nomorown = '6289697155781'
+global.namebot = 'Ranzz Nationラ'
+global.nameown = 'ᴹᴿ᭄ King Of Ranzz ×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288279268363', 'ᴹᴿ᭄ King Of Bear ×፝֟͜×', 'true']
+  ['6289697155781', 'ᴹᴿ᭄ King Of Ranzz ×፝֟͜×', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,14 +96,14 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×' //Main Watermark
-global.wm2 = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
-global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.wm = 'Ranzz Nationラ | By ᴹᴿ᭄ King Of Ranzz ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄ King Of Ranzz ×፝֟͜×'
+global.wm3 = 'Yuki Adistyラ | By ᴹᴿ᭄ King Of Ranzz ×፝֟͜×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×' 
-global.packname = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.titlebot = `Ranzz Nationラ | ʙʏ ${global.nameown}`
+global.author = 'ᴹᴿ᭄ King Of Ranzz ×፝֟͜×' 
+global.packname = 'ᴹᴿ᭄ King Of Ranzz ×፝֟͜×'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 
 

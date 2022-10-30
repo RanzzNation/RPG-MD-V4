@@ -119,10 +119,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴹᴿ᭄ King Of Bear ×፝֟͜×'
+global.nameowner = 'ᴹᴿ᭄ King Of Ranzz ×፝֟͜×'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6288279268363'
+global.nomorowner = 'wa.me/6289697155781'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -372,7 +372,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `King Of Bear`
+global.stickauth = `King Of Ranzz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
